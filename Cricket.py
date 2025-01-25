@@ -15,7 +15,7 @@ Instructions:
 6. The innings will end after either the two wickets fell or the overs end.
 7. The player with maximum runs wins. """)
 
-print("\n---------- Start Game ----------")
+print("\n---------- Start Game --------")
 
 import random
 
